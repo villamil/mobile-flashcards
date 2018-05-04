@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "orientation": "portrait",
+    "name": "Udacicards",
+    "description": "The best flash cards app ever!.",
+    "slug": "udacicards",
+    "version": "1.0",
+    "icon": "https://s3.amazonaws.com/appeventoscs/Images/default/udacicards-logo-180.png",
+    "notification": {
+      "icon": "https://s3.amazonaws.com/appeventoscs/Images/default/udacicards-logo-45.png"
+    },
+    "ios": {
+     "bundleIdentifier": "com.compusoluciones.cards"
+    },
+    "android": {
+     "package": "com.compusoluciones.cards"
+    }
+  }
+}
